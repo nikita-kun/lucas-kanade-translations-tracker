@@ -1,6 +1,8 @@
 # lucas-kanade-translations-tracker
 Lucas-Kanade forward-additive feature tracker for 2D translations.
 
+# Requirements
+* opencv
 
 # Usage
 To select capturing mode update:
