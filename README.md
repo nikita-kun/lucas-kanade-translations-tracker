@@ -13,7 +13,7 @@ To select capturing mode update:
 * Use trackbars to change parameter values (parameters are saved in parameters.txt)
 * Click on the image window to add a new feature
 * Press Q to quit
-* Press E to clear features
+* Press C to remove all features
 
 
 ## Default parameters:
